@@ -9,6 +9,8 @@ The main purpose of this project is to manage patient information digitally. It 
 
 This application simplifies patient record management and reduces manual paperwork.
 
+https://eppavani1-art.github.io/patientmanagementsystem/
+
 ## 2. Technologies Used
 
 - HTML5 – Creates the structure of the application.
